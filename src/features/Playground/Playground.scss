@@ -1,0 +1,9 @@
+.playground {
+  position: relative;
+  background-color: #dcdcdc;
+  padding: 30px;
+  cursor: url('../../resources/weapons/sword-lvl-1.png'), auto;
+  &--hit {
+    cursor: url('../../resources/weapons/sword-lvl-1-hit.png'), auto;
+  }
+}

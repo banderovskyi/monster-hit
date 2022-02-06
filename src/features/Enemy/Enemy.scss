@@ -1,0 +1,18 @@
+.enemy__body {
+  width: 200px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: #bebebe;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.enemy__health {
+  display: block;
+  width: 200px;
+  height: 20px;
+  border-radius: 3px;
+  background: #000;
+  margin: 20px auto 0;
+}
